@@ -1,0 +1,32 @@
+{
+  "name": "socialmedia-api",
+  "version": "1.0.0",
+  "description": "A social media api backend",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.29.0",
+    "mongoose": "^5.10.7",
+    "node": "^14.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kwedwick/socialmedia-api.git"
+  },
+  "keywords": [
+    "mongodb",
+    "mongoose",
+    "express"
+  ],
+  "author": "kwedwick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kwedwick/socialmedia-api/issues"
+  },
+  "homepage": "https://github.com/kwedwick/socialmedia-api#readme"
+}
