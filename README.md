@@ -3,6 +3,7 @@
 ## Description
 
 This project is a barebones backend API for a social network that allows users to post thoughts and reactions to thoughts using MongoDB.
+Video Walkthrough [part 1](https://drive.google.com/file/d/1pkt6jPVE-vn_PjIQlxZ6DmAsPv2Z0RIE/view) and [part 2](https://drive.google.com/file/d/1q076S55OuNk3NB6pnO3SKe0JCT2DhESP/view). Git repo [here](https://github.com/kwedwick/socialmedia-api).
 
 
 ## Table of Contents 
